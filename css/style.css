@@ -24,7 +24,7 @@
 .slide:hover{
     will-change: transform;
 }
-.slide-warpper{
+.slide-wrapper{
     overflow: hidden;
 }
 img{
